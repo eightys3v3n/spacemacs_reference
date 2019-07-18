@@ -1,5 +1,5 @@
 ## Misc
-``C-c C-p` | `M-x python-shell-switch-to-shell` Open a Python interpreter in current buffer.
+`C-c C-p` | `M-x python-shell-switch-to-shell` Open a Python interpreter in current buffer.
 `SPC s a p` > `C-c C-e` Do a search on project files, then open all the matches in a buffer for mass editing.
 
 ## Getting around Emacs
